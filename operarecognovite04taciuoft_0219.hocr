@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operarecognovite04taciuoft/operarecognovite04taciuoft_0219.png"; bbox 0 0 1768 3236; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 1145 1301 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 1145 1301 1221">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 1145 1301 1221; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 333 1145 1301 1221; x_wconf 83' lang='lat' dir='ltr'><strong>SUPPLEMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 392 1409 1373 1453">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 392 1409 1373 1453">
+     <span class='ocr_line' id='line_1_2' title="bbox 392 1409 1373 1453; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 392 1414 553 1453; x_wconf 89' lang='lat' dir='ltr'>ORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 581 1412 633 1452; x_wconf 86' lang='lat' dir='ltr'><strong>V.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1409 757 1452; x_wconf 88' lang='lat' dir='ltr'><strong>VII.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 784 1411 905 1453; x_wconf 85' lang='lat' dir='ltr'><strong>VIII.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 934 1413 1008 1452; x_wconf 80' lang='lat' dir='ltr'><strong>lx.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1040 1414 1093 1452; x_wconf 88' lang='lat' dir='ltr'><strong>X.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1124 1414 1184 1452; x_wconf 91' lang='lat' dir='ltr'><strong>XI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1202 1419 1239 1451; x_wconf 85' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1259 1413 1373 1453; x_wconf 84' lang='lat' dir='ltr'><strong>XVI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 504 1623 1141 1681">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 504 1623 1141 1681">
+     <span class='ocr_line' id='line_1_3' title="bbox 504 1623 1141 1681; baseline 0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 504 1623 1141 1681; x_wconf 88' lang='lat' dir='ltr'><strong>ANNALIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 255 1884 1415 1961">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 98 1854 1415 1961">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 1884 1415 1961; baseline 0.002 -7.642"><span class='ocrx_word' id='word_1_12' title='bbox 255 1886 333 1954; x_wconf 87' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 399 1886 952 1957; x_wconf 83' lang='lat' dir='ltr'><strong>CORNELII</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1019 1884 1415 1961; x_wconf 85' lang='lat' dir='ltr'><strong>TACITI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 326 3016 538 3053">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 326 3016 538 3053">
+     <span class='ocr_line' id='line_1_5' title="bbox 326 3016 538 3053; baseline -0.005 -3"><span class='ocrx_word' id='word_1_15' title='bbox 326 3016 538 3053; x_wconf 70' lang='lat' dir='ltr'>VVVVVVV</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
